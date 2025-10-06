@@ -1,0 +1,1 @@
+The AI-Instagram-Analyzer is a system trained to predict whether your next Instagram post will be viral or vanish. A own simulated dataset was created using Python and the generated dataset was trained and tested using different machine learning model and then plotted for classification purpose.
